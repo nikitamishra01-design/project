@@ -1,5 +1,5 @@
 
-#  New Repository ✨
+#  New Repository 
 
  Created by **Nikita Mishra**  
 📌 Status: In Progress  
